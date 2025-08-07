@@ -1,0 +1,414 @@
+{
+    "524533559245": [
+        {
+            "tax_name": "property tax",
+            "due": "2026-01-22"
+        },
+        {
+            "tax_name": "capital gains",
+            "due": "2025-12-09"
+        }
+    ],
+    "144756014165": [
+        {
+            "tax_name": "income tax",
+            "due": "2025-12-18"
+        }
+    ],
+    "634771852898": [
+        {
+            "tax_name": "income tax",
+            "due": "2025-12-20"
+        }
+    ],
+    "492888992260": [
+        {
+            "tax_name": "capital gains",
+            "due": "2025-09-07"
+        },
+        {
+            "tax_name": "capital gains",
+            "due": "2026-01-19"
+        }
+    ],
+    "340123516435": [
+        {
+            "tax_name": "GST",
+            "due": "2025-12-12"
+        },
+        {
+            "tax_name": "income tax",
+            "due": "2025-09-26"
+        }
+    ],
+    "252491468918": [
+        {
+            "tax_name": "income tax",
+            "due": "2025-10-28"
+        },
+        {
+            "tax_name": "property tax",
+            "due": "2025-12-07"
+        }
+    ],
+    "251534339699": [
+        {
+            "tax_name": "income tax",
+            "due": "2025-09-11"
+        },
+        {
+            "tax_name": "capital gains",
+            "due": "2025-09-13"
+        }
+    ],
+    "206325369465": [
+        {
+            "tax_name": "capital gains",
+            "due": "2026-01-03"
+        },
+        {
+            "tax_name": "GST",
+            "due": "2025-10-04"
+        }
+    ],
+    "978829203004": [
+        {
+            "tax_name": "GST",
+            "due": "2025-11-01"
+        },
+        {
+            "tax_name": "property tax",
+            "due": "2025-12-13"
+        }
+    ],
+    "688022882666": [
+        {
+            "tax_name": "capital gains",
+            "due": "2025-11-12"
+        },
+        {
+            "tax_name": "income tax",
+            "due": "2025-09-17"
+        }
+    ],
+    "877315144757": [
+        {
+            "tax_name": "GST",
+            "due": "2026-02-02"
+        }
+    ],
+    "764904820126": [
+        {
+            "tax_name": "income tax",
+            "due": "2026-01-18"
+        },
+        {
+            "tax_name": "property tax",
+            "due": "2025-12-26"
+        }
+    ],
+    "262788563211": [
+        {
+            "tax_name": "property tax",
+            "due": "2025-09-12"
+        },
+        {
+            "tax_name": "income tax",
+            "due": "2025-12-26"
+        }
+    ],
+    "208706256089": [
+        {
+            "tax_name": "capital gains",
+            "due": "2025-09-13"
+        }
+    ],
+    "180444014843": [
+        {
+            "tax_name": "property tax",
+            "due": "2025-11-08"
+        }
+    ],
+    "463714941482": [
+        {
+            "tax_name": "GST",
+            "due": "2025-11-12"
+        }
+    ],
+    "716208160855": [
+        {
+            "tax_name": "income tax",
+            "due": "2025-12-03"
+        },
+        {
+            "tax_name": "GST",
+            "due": "2025-12-10"
+        }
+    ],
+    "486979565044": [
+        {
+            "tax_name": "income tax",
+            "due": "2025-12-01"
+        }
+    ],
+    "445462137506": [
+        {
+            "tax_name": "capital gains",
+            "due": "2026-01-10"
+        }
+    ],
+    "802703408825": [
+        {
+            "tax_name": "GST",
+            "due": "2025-11-29"
+        }
+    ],
+    "327259652028": [
+        {
+            "tax_name": "GST",
+            "due": "2025-10-01"
+        }
+    ],
+    "709741931457": [
+        {
+            "tax_name": "income tax",
+            "due": "2025-11-09"
+        },
+        {
+            "tax_name": "income tax",
+            "due": "2026-01-17"
+        }
+    ],
+    "587380045830": [
+        {
+            "tax_name": "capital gains",
+            "due": "2026-01-08"
+        }
+    ],
+    "674947128222": [
+        {
+            "tax_name": "capital gains",
+            "due": "2025-12-03"
+        }
+    ],
+    "165543315395": [
+        {
+            "tax_name": "capital gains",
+            "due": "2025-10-21"
+        }
+    ],
+    "198844556456": [
+        {
+            "tax_name": "property tax",
+            "due": "2025-10-27"
+        }
+    ],
+    "879102014641": [
+        {
+            "tax_name": "GST",
+            "due": "2025-10-16"
+        },
+        {
+            "tax_name": "GST",
+            "due": "2025-12-04"
+        }
+    ],
+    "962536141388": [
+        {
+            "tax_name": "capital gains",
+            "due": "2026-01-03"
+        }
+    ],
+    "790064463489": [
+        {
+            "tax_name": "capital gains",
+            "due": "2025-11-15"
+        },
+        {
+            "tax_name": "income tax",
+            "due": "2025-09-27"
+        }
+    ],
+    "770019806533": [
+        {
+            "tax_name": "GST",
+            "due": "2025-11-27"
+        },
+        {
+            "tax_name": "income tax",
+            "due": "2025-09-27"
+        }
+    ],
+    "468798545706": [
+        {
+            "tax_name": "GST",
+            "due": "2025-10-05"
+        }
+    ],
+    "899911506282": [
+        {
+            "tax_name": "GST",
+            "due": "2025-10-27"
+        }
+    ],
+    "874490855370": [
+        {
+            "tax_name": "property tax",
+            "due": "2025-09-28"
+        },
+        {
+            "tax_name": "property tax",
+            "due": "2026-01-12"
+        }
+    ],
+    "172458122216": [
+        {
+            "tax_name": "income tax",
+            "due": "2025-09-26"
+        },
+        {
+            "tax_name": "property tax",
+            "due": "2025-11-27"
+        }
+    ],
+    "342955608655": [
+        {
+            "tax_name": "GST",
+            "due": "2025-11-06"
+        }
+    ],
+    "981493143287": [
+        {
+            "tax_name": "GST",
+            "due": "2025-09-14"
+        },
+        {
+            "tax_name": "income tax",
+            "due": "2025-09-08"
+        }
+    ],
+    "258774376402": [
+        {
+            "tax_name": "income tax",
+            "due": "2025-11-25"
+        },
+        {
+            "tax_name": "GST",
+            "due": "2026-01-24"
+        }
+    ],
+    "700450083709": [
+        {
+            "tax_name": "income tax",
+            "due": "2025-11-08"
+        },
+        {
+            "tax_name": "capital gains",
+            "due": "2025-11-11"
+        }
+    ],
+    "200708262468": [
+        {
+            "tax_name": "property tax",
+            "due": "2025-12-22"
+        }
+    ],
+    "640877402763": [
+        {
+            "tax_name": "capital gains",
+            "due": "2025-11-09"
+        },
+        {
+            "tax_name": "GST",
+            "due": "2026-01-20"
+        }
+    ],
+    "431180881681": [
+        {
+            "tax_name": "property tax",
+            "due": "2025-10-07"
+        },
+        {
+            "tax_name": "property tax",
+            "due": "2025-12-10"
+        }
+    ],
+    "420195254711": [
+        {
+            "tax_name": "income tax",
+            "due": "2025-11-04"
+        }
+    ],
+    "236178644349": [
+        {
+            "tax_name": "property tax",
+            "due": "2025-09-13"
+        },
+        {
+            "tax_name": "capital gains",
+            "due": "2025-09-26"
+        }
+    ],
+    "467423460970": [
+        {
+            "tax_name": "income tax",
+            "due": "2025-10-22"
+        },
+        {
+            "tax_name": "capital gains",
+            "due": "2025-12-27"
+        }
+    ],
+    "325658799809": [
+        {
+            "tax_name": "GST",
+            "due": "2026-01-18"
+        }
+    ],
+    "980312983410": [
+        {
+            "tax_name": "income tax",
+            "due": "2026-01-18"
+        },
+        {
+            "tax_name": "capital gains",
+            "due": "2026-01-11"
+        }
+    ],
+    "703886083986": [
+        {
+            "tax_name": "GST",
+            "due": "2025-12-18"
+        },
+        {
+            "tax_name": "property tax",
+            "due": "2026-01-04"
+        }
+    ],
+    "416056408695": [
+        {
+            "tax_name": "capital gains",
+            "due": "2026-01-18"
+        }
+    ],
+    "200695461125": [
+        {
+            "tax_name": "capital gains",
+            "due": "2025-11-08"
+        },
+        {
+            "tax_name": "capital gains",
+            "due": "2025-11-01"
+        }
+    ],
+    "978734360941": [
+        {
+            "tax_name": "capital gains",
+            "due": "2025-10-23"
+        },
+        {
+            "tax_name": "GST",
+            "due": "2026-01-23"
+        }
+    ]
+}

@@ -1,0 +1,2629 @@
+{
+    "524533559245": [
+        {
+            "date": "04/01/2025",
+            "type": "send",
+            "amount": 2663.28,
+            "other_party": "Kenneth Roberts",
+            "desc": "shopping"
+        },
+        {
+            "date": "02/12/2024",
+            "type": "recv",
+            "amount": 9190.52,
+            "other_party": "Cody Salazar",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "06/12/2024",
+            "type": "recv",
+            "amount": 5875.48,
+            "other_party": "Karen Davis",
+            "desc": "salary"
+        },
+        {
+            "date": "22/11/2024",
+            "type": "send",
+            "amount": 2890.19,
+            "other_party": "Sherri Mclean",
+            "desc": "rent"
+        },
+        {
+            "date": "25/09/2024",
+            "type": "recv",
+            "amount": 9873.87,
+            "other_party": "Stephanie Leblanc",
+            "desc": "shopping"
+        },
+        {
+            "date": "11/08/2024",
+            "type": "send",
+            "amount": 3170.46,
+            "other_party": "Jeanne Thornton",
+            "desc": "rent"
+        },
+        {
+            "date": "22/08/2024",
+            "type": "recv",
+            "amount": 4774.21,
+            "other_party": "Robert Atkinson",
+            "desc": "rent"
+        },
+        {
+            "date": "07/02/2025",
+            "type": "recv",
+            "amount": 3230.35,
+            "other_party": "Leslie Herring",
+            "desc": "salary"
+        }
+    ],
+    "144756014165": [
+        {
+            "date": "06/12/2024",
+            "type": "recv",
+            "amount": 8666.57,
+            "other_party": "Joanne Keller",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "07/07/2025",
+            "type": "send",
+            "amount": 1023.39,
+            "other_party": "Sydney Leon MD",
+            "desc": "gift"
+        },
+        {
+            "date": "09/08/2024",
+            "type": "send",
+            "amount": 6157.78,
+            "other_party": "Katelyn Mccoy",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "05/04/2025",
+            "type": "recv",
+            "amount": 7066.06,
+            "other_party": "Dana Dennis",
+            "desc": "rent"
+        },
+        {
+            "date": "02/05/2025",
+            "type": "send",
+            "amount": 2462.3,
+            "other_party": "Daniel Norton",
+            "desc": "salary"
+        },
+        {
+            "date": "02/11/2024",
+            "type": "recv",
+            "amount": 1003.04,
+            "other_party": "Robert Garcia",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "20/11/2024",
+            "type": "recv",
+            "amount": 1179.67,
+            "other_party": "Michael Williams",
+            "desc": "shopping"
+        },
+        {
+            "date": "11/03/2025",
+            "type": "send",
+            "amount": 5519.67,
+            "other_party": "Susan Ferguson",
+            "desc": "shopping"
+        },
+        {
+            "date": "25/04/2025",
+            "type": "recv",
+            "amount": 4505.39,
+            "other_party": "Alyssa Reid",
+            "desc": "shopping"
+        }
+    ],
+    "634771852898": [
+        {
+            "date": "26/02/2025",
+            "type": "send",
+            "amount": 2974.26,
+            "other_party": "Laura Myers",
+            "desc": "salary"
+        },
+        {
+            "date": "04/05/2025",
+            "type": "send",
+            "amount": 6166.45,
+            "other_party": "William Johnson",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "07/12/2024",
+            "type": "send",
+            "amount": 989.26,
+            "other_party": "Tyler Lopez",
+            "desc": "salary"
+        },
+        {
+            "date": "23/05/2025",
+            "type": "send",
+            "amount": 8440.36,
+            "other_party": "Daniel Owen",
+            "desc": "shopping"
+        },
+        {
+            "date": "23/08/2024",
+            "type": "recv",
+            "amount": 8394.87,
+            "other_party": "Allison Coleman",
+            "desc": "shopping"
+        },
+        {
+            "date": "19/03/2025",
+            "type": "send",
+            "amount": 8509.91,
+            "other_party": "David Walker",
+            "desc": "shopping"
+        },
+        {
+            "date": "05/01/2025",
+            "type": "recv",
+            "amount": 4560.57,
+            "other_party": "Hayley White",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "26/06/2025",
+            "type": "recv",
+            "amount": 6166.55,
+            "other_party": "Amanda Garcia",
+            "desc": "gift"
+        }
+    ],
+    "492888992260": [
+        {
+            "date": "19/09/2024",
+            "type": "recv",
+            "amount": 8466.27,
+            "other_party": "Christina Howard PhD",
+            "desc": "salary"
+        },
+        {
+            "date": "30/07/2025",
+            "type": "recv",
+            "amount": 1259.63,
+            "other_party": "Tamara Jackson",
+            "desc": "salary"
+        },
+        {
+            "date": "29/01/2025",
+            "type": "send",
+            "amount": 3392.11,
+            "other_party": "Tracy Brown",
+            "desc": "rent"
+        },
+        {
+            "date": "17/06/2025",
+            "type": "send",
+            "amount": 8567.69,
+            "other_party": "Sarah Peterson",
+            "desc": "salary"
+        },
+        {
+            "date": "15/07/2025",
+            "type": "send",
+            "amount": 364.3,
+            "other_party": "Kyle Ramos",
+            "desc": "salary"
+        },
+        {
+            "date": "01/10/2024",
+            "type": "send",
+            "amount": 3972.97,
+            "other_party": "John Ortiz",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "09/06/2025",
+            "type": "send",
+            "amount": 6094.49,
+            "other_party": "Katie Collins",
+            "desc": "salary"
+        },
+        {
+            "date": "05/05/2025",
+            "type": "send",
+            "amount": 4844.41,
+            "other_party": "Ryan King",
+            "desc": "rent"
+        },
+        {
+            "date": "25/08/2024",
+            "type": "send",
+            "amount": 5487.93,
+            "other_party": "Alexandria Harmon",
+            "desc": "shopping"
+        }
+    ],
+    "340123516435": [
+        {
+            "date": "27/03/2025",
+            "type": "send",
+            "amount": 2286.21,
+            "other_party": "Angel Campbell",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "09/02/2025",
+            "type": "recv",
+            "amount": 1885.15,
+            "other_party": "Troy Bell",
+            "desc": "shopping"
+        },
+        {
+            "date": "11/12/2024",
+            "type": "send",
+            "amount": 6005.2,
+            "other_party": "Ian Arroyo",
+            "desc": "gift"
+        },
+        {
+            "date": "27/04/2025",
+            "type": "recv",
+            "amount": 3649.7,
+            "other_party": "Lisa Baldwin",
+            "desc": "gift"
+        },
+        {
+            "date": "20/10/2024",
+            "type": "send",
+            "amount": 7007.2,
+            "other_party": "Jason Curtis",
+            "desc": "salary"
+        }
+    ],
+    "252491468918": [
+        {
+            "date": "26/08/2024",
+            "type": "send",
+            "amount": 8469.7,
+            "other_party": "Corey Cook",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "09/11/2024",
+            "type": "recv",
+            "amount": 1260.41,
+            "other_party": "Mark Gray",
+            "desc": "gift"
+        },
+        {
+            "date": "01/09/2024",
+            "type": "send",
+            "amount": 230.72,
+            "other_party": "Laura Perry",
+            "desc": "gift"
+        },
+        {
+            "date": "20/10/2024",
+            "type": "recv",
+            "amount": 6524.44,
+            "other_party": "Michael Barnes",
+            "desc": "gift"
+        },
+        {
+            "date": "05/09/2024",
+            "type": "recv",
+            "amount": 1618.79,
+            "other_party": "Amber Griffin",
+            "desc": "rent"
+        }
+    ],
+    "251534339699": [
+        {
+            "date": "28/06/2025",
+            "type": "recv",
+            "amount": 7416.26,
+            "other_party": "Christopher Rose",
+            "desc": "shopping"
+        },
+        {
+            "date": "17/03/2025",
+            "type": "send",
+            "amount": 2477.29,
+            "other_party": "Mr. Pedro Henson",
+            "desc": "gift"
+        },
+        {
+            "date": "08/02/2025",
+            "type": "recv",
+            "amount": 6766.69,
+            "other_party": "Eric Owens PhD",
+            "desc": "shopping"
+        },
+        {
+            "date": "17/09/2024",
+            "type": "send",
+            "amount": 7184.63,
+            "other_party": "Robin Lopez",
+            "desc": "gift"
+        },
+        {
+            "date": "07/01/2025",
+            "type": "send",
+            "amount": 115.09,
+            "other_party": "Miss Angela Swanson DVM",
+            "desc": "salary"
+        },
+        {
+            "date": "15/08/2024",
+            "type": "recv",
+            "amount": 1684.79,
+            "other_party": "Michael Stewart",
+            "desc": "salary"
+        },
+        {
+            "date": "15/09/2024",
+            "type": "recv",
+            "amount": 3848.62,
+            "other_party": "Mitchell Smith",
+            "desc": "shopping"
+        },
+        {
+            "date": "07/01/2025",
+            "type": "send",
+            "amount": 4082.44,
+            "other_party": "Kelsey Davis",
+            "desc": "shopping"
+        }
+    ],
+    "206325369465": [
+        {
+            "date": "02/09/2024",
+            "type": "send",
+            "amount": 1740.18,
+            "other_party": "Matthew Russo",
+            "desc": "rent"
+        },
+        {
+            "date": "28/03/2025",
+            "type": "send",
+            "amount": 4519.01,
+            "other_party": "William Garcia",
+            "desc": "gift"
+        },
+        {
+            "date": "24/10/2024",
+            "type": "send",
+            "amount": 8850.36,
+            "other_party": "Jennifer Miller",
+            "desc": "gift"
+        },
+        {
+            "date": "22/02/2025",
+            "type": "recv",
+            "amount": 8393.59,
+            "other_party": "Jesse Sparks",
+            "desc": "rent"
+        },
+        {
+            "date": "07/01/2025",
+            "type": "send",
+            "amount": 5530.76,
+            "other_party": "Brandi Meyer",
+            "desc": "rent"
+        },
+        {
+            "date": "02/06/2025",
+            "type": "send",
+            "amount": 4077.99,
+            "other_party": "Hannah Wiggins",
+            "desc": "gift"
+        },
+        {
+            "date": "27/02/2025",
+            "type": "send",
+            "amount": 2213.89,
+            "other_party": "Albert Williams",
+            "desc": "rent"
+        },
+        {
+            "date": "27/08/2024",
+            "type": "send",
+            "amount": 1985.55,
+            "other_party": "Kristin Potts",
+            "desc": "shopping"
+        }
+    ],
+    "978829203004": [
+        {
+            "date": "28/04/2025",
+            "type": "recv",
+            "amount": 2871.83,
+            "other_party": "Susan Williams",
+            "desc": "salary"
+        },
+        {
+            "date": "17/06/2025",
+            "type": "recv",
+            "amount": 8553.99,
+            "other_party": "Meredith Rios",
+            "desc": "gift"
+        },
+        {
+            "date": "20/09/2024",
+            "type": "send",
+            "amount": 316.27,
+            "other_party": "Stephanie Bowman",
+            "desc": "gift"
+        },
+        {
+            "date": "09/06/2025",
+            "type": "recv",
+            "amount": 1420.86,
+            "other_party": "Joshua Clark",
+            "desc": "shopping"
+        },
+        {
+            "date": "08/09/2024",
+            "type": "recv",
+            "amount": 1239.58,
+            "other_party": "Alexa Hernandez",
+            "desc": "salary"
+        },
+        {
+            "date": "18/03/2025",
+            "type": "send",
+            "amount": 518.75,
+            "other_party": "Richard Higgins",
+            "desc": "salary"
+        },
+        {
+            "date": "24/08/2024",
+            "type": "recv",
+            "amount": 5627.72,
+            "other_party": "Marc Williams",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "21/10/2024",
+            "type": "send",
+            "amount": 8478.96,
+            "other_party": "William Roberts",
+            "desc": "shopping"
+        },
+        {
+            "date": "06/09/2024",
+            "type": "recv",
+            "amount": 7152.34,
+            "other_party": "Joshua Carter",
+            "desc": "gift"
+        },
+        {
+            "date": "14/09/2024",
+            "type": "recv",
+            "amount": 3787.25,
+            "other_party": "David Williams",
+            "desc": "shopping"
+        }
+    ],
+    "688022882666": [
+        {
+            "date": "23/04/2025",
+            "type": "recv",
+            "amount": 5912.54,
+            "other_party": "Joseph Jones",
+            "desc": "rent"
+        },
+        {
+            "date": "29/05/2025",
+            "type": "send",
+            "amount": 2786.6,
+            "other_party": "Gary Perry",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "31/01/2025",
+            "type": "send",
+            "amount": 3448.73,
+            "other_party": "Terry Wells",
+            "desc": "shopping"
+        },
+        {
+            "date": "20/07/2025",
+            "type": "send",
+            "amount": 2769.26,
+            "other_party": "Vanessa Cooper",
+            "desc": "salary"
+        },
+        {
+            "date": "13/10/2024",
+            "type": "recv",
+            "amount": 3672.98,
+            "other_party": "Michael Simmons",
+            "desc": "shopping"
+        },
+        {
+            "date": "02/06/2025",
+            "type": "recv",
+            "amount": 1237.47,
+            "other_party": "Nicholas Kline",
+            "desc": "salary"
+        }
+    ],
+    "877315144757": [
+        {
+            "date": "03/03/2025",
+            "type": "send",
+            "amount": 8584.66,
+            "other_party": "Lori Bennett",
+            "desc": "rent"
+        },
+        {
+            "date": "06/03/2025",
+            "type": "recv",
+            "amount": 8372.04,
+            "other_party": "Margaret Jones",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "07/01/2025",
+            "type": "send",
+            "amount": 1084.06,
+            "other_party": "Paul Brown",
+            "desc": "gift"
+        },
+        {
+            "date": "08/12/2024",
+            "type": "recv",
+            "amount": 8424.4,
+            "other_party": "James Stone",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "05/06/2025",
+            "type": "recv",
+            "amount": 1248.48,
+            "other_party": "John Richards",
+            "desc": "gift"
+        }
+    ],
+    "764904820126": [
+        {
+            "date": "19/07/2025",
+            "type": "recv",
+            "amount": 3417.31,
+            "other_party": "Jenny Richardson",
+            "desc": "salary"
+        },
+        {
+            "date": "14/05/2025",
+            "type": "recv",
+            "amount": 8080.57,
+            "other_party": "Debbie Waters MD",
+            "desc": "rent"
+        },
+        {
+            "date": "05/07/2025",
+            "type": "send",
+            "amount": 2060.6,
+            "other_party": "Austin Boyer",
+            "desc": "salary"
+        },
+        {
+            "date": "07/07/2025",
+            "type": "recv",
+            "amount": 177.72,
+            "other_party": "Stephanie Hayes",
+            "desc": "gift"
+        },
+        {
+            "date": "27/10/2024",
+            "type": "recv",
+            "amount": 4540.59,
+            "other_party": "Barbara Sanders",
+            "desc": "gift"
+        },
+        {
+            "date": "12/10/2024",
+            "type": "send",
+            "amount": 4288.08,
+            "other_party": "Andrew Gould",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "17/04/2025",
+            "type": "recv",
+            "amount": 5893.76,
+            "other_party": "Charles Gonzalez",
+            "desc": "salary"
+        },
+        {
+            "date": "30/12/2024",
+            "type": "send",
+            "amount": 3649.35,
+            "other_party": "Joshua Hernandez",
+            "desc": "rent"
+        }
+    ],
+    "262788563211": [
+        {
+            "date": "24/07/2025",
+            "type": "recv",
+            "amount": 7549.14,
+            "other_party": "Victoria Hernandez MD",
+            "desc": "salary"
+        },
+        {
+            "date": "08/06/2025",
+            "type": "recv",
+            "amount": 4039.74,
+            "other_party": "Sherry Simpson",
+            "desc": "salary"
+        },
+        {
+            "date": "13/09/2024",
+            "type": "send",
+            "amount": 9970.7,
+            "other_party": "Erica Jimenez",
+            "desc": "salary"
+        },
+        {
+            "date": "22/09/2024",
+            "type": "send",
+            "amount": 1135.83,
+            "other_party": "Mr. Dakota Lynch II",
+            "desc": "gift"
+        },
+        {
+            "date": "26/01/2025",
+            "type": "recv",
+            "amount": 5509.27,
+            "other_party": "Victor Nolan",
+            "desc": "salary"
+        },
+        {
+            "date": "15/06/2025",
+            "type": "recv",
+            "amount": 1569.18,
+            "other_party": "Amanda Hernandez",
+            "desc": "gift"
+        },
+        {
+            "date": "15/09/2024",
+            "type": "recv",
+            "amount": 8788.8,
+            "other_party": "Richard Kirby",
+            "desc": "gift"
+        },
+        {
+            "date": "25/08/2024",
+            "type": "recv",
+            "amount": 8351.98,
+            "other_party": "Michelle Roman",
+            "desc": "gift"
+        },
+        {
+            "date": "16/09/2024",
+            "type": "send",
+            "amount": 5473.81,
+            "other_party": "Bradley Melton",
+            "desc": "salary"
+        },
+        {
+            "date": "03/08/2025",
+            "type": "recv",
+            "amount": 7085.38,
+            "other_party": "Danny Williams",
+            "desc": "loan repayment"
+        }
+    ],
+    "208706256089": [
+        {
+            "date": "20/07/2025",
+            "type": "send",
+            "amount": 8757.38,
+            "other_party": "Ryan Rivera",
+            "desc": "shopping"
+        },
+        {
+            "date": "20/05/2025",
+            "type": "recv",
+            "amount": 5871.19,
+            "other_party": "Charles Douglas",
+            "desc": "gift"
+        },
+        {
+            "date": "05/07/2025",
+            "type": "send",
+            "amount": 5213.63,
+            "other_party": "Kathy Santana",
+            "desc": "rent"
+        },
+        {
+            "date": "05/07/2025",
+            "type": "send",
+            "amount": 1391.89,
+            "other_party": "Laura Gregory",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "31/07/2025",
+            "type": "recv",
+            "amount": 3372.88,
+            "other_party": "Norma Mooney",
+            "desc": "salary"
+        },
+        {
+            "date": "23/05/2025",
+            "type": "recv",
+            "amount": 9689.12,
+            "other_party": "Susan Harris",
+            "desc": "shopping"
+        },
+        {
+            "date": "24/01/2025",
+            "type": "send",
+            "amount": 5781.34,
+            "other_party": "Linda Petersen",
+            "desc": "shopping"
+        }
+    ],
+    "180444014843": [
+        {
+            "date": "29/06/2025",
+            "type": "recv",
+            "amount": 9067.23,
+            "other_party": "Dr. James Willis",
+            "desc": "salary"
+        },
+        {
+            "date": "12/03/2025",
+            "type": "recv",
+            "amount": 8274.4,
+            "other_party": "Rebecca Sandoval",
+            "desc": "gift"
+        },
+        {
+            "date": "21/01/2025",
+            "type": "send",
+            "amount": 8528.03,
+            "other_party": "Christopher Hunter",
+            "desc": "rent"
+        },
+        {
+            "date": "05/09/2024",
+            "type": "send",
+            "amount": 7433.38,
+            "other_party": "Austin Heath",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "21/11/2024",
+            "type": "recv",
+            "amount": 3393.59,
+            "other_party": "Elizabeth Russell",
+            "desc": "gift"
+        },
+        {
+            "date": "26/03/2025",
+            "type": "recv",
+            "amount": 7747.55,
+            "other_party": "Amy Davidson",
+            "desc": "gift"
+        },
+        {
+            "date": "23/01/2025",
+            "type": "send",
+            "amount": 1721.57,
+            "other_party": "Dustin Greer",
+            "desc": "salary"
+        },
+        {
+            "date": "07/04/2025",
+            "type": "recv",
+            "amount": 7321.56,
+            "other_party": "Andrew Butler",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "10/07/2025",
+            "type": "send",
+            "amount": 4865.17,
+            "other_party": "Scott Love DDS",
+            "desc": "salary"
+        }
+    ],
+    "463714941482": [
+        {
+            "date": "03/10/2024",
+            "type": "send",
+            "amount": 6768.08,
+            "other_party": "William Jenkins",
+            "desc": "salary"
+        },
+        {
+            "date": "08/02/2025",
+            "type": "recv",
+            "amount": 448.28,
+            "other_party": "Jasmine Williams",
+            "desc": "gift"
+        },
+        {
+            "date": "22/01/2025",
+            "type": "recv",
+            "amount": 565.63,
+            "other_party": "Christian Johnson",
+            "desc": "gift"
+        },
+        {
+            "date": "22/05/2025",
+            "type": "send",
+            "amount": 421.41,
+            "other_party": "Lorraine Garcia",
+            "desc": "shopping"
+        },
+        {
+            "date": "01/06/2025",
+            "type": "recv",
+            "amount": 1142.4,
+            "other_party": "Hannah Reyes",
+            "desc": "shopping"
+        },
+        {
+            "date": "09/09/2024",
+            "type": "recv",
+            "amount": 2030.24,
+            "other_party": "Katherine Ibarra",
+            "desc": "gift"
+        },
+        {
+            "date": "12/06/2025",
+            "type": "send",
+            "amount": 6140.19,
+            "other_party": "Julie Chen",
+            "desc": "gift"
+        },
+        {
+            "date": "27/09/2024",
+            "type": "recv",
+            "amount": 6539.67,
+            "other_party": "Caleb Fleming",
+            "desc": "shopping"
+        }
+    ],
+    "716208160855": [
+        {
+            "date": "03/06/2025",
+            "type": "recv",
+            "amount": 8013.48,
+            "other_party": "Rachel Martinez",
+            "desc": "rent"
+        },
+        {
+            "date": "15/11/2024",
+            "type": "send",
+            "amount": 478.03,
+            "other_party": "Rebecca Stark",
+            "desc": "gift"
+        },
+        {
+            "date": "23/12/2024",
+            "type": "recv",
+            "amount": 7590.5,
+            "other_party": "Melanie Patrick",
+            "desc": "gift"
+        },
+        {
+            "date": "06/02/2025",
+            "type": "send",
+            "amount": 9569.33,
+            "other_party": "Rachel Lopez",
+            "desc": "rent"
+        },
+        {
+            "date": "02/12/2024",
+            "type": "recv",
+            "amount": 9020.61,
+            "other_party": "Jill Sherman",
+            "desc": "shopping"
+        },
+        {
+            "date": "31/08/2024",
+            "type": "send",
+            "amount": 2373.59,
+            "other_party": "Richard Jones",
+            "desc": "shopping"
+        },
+        {
+            "date": "15/08/2024",
+            "type": "recv",
+            "amount": 5120.36,
+            "other_party": "Timothy Tucker",
+            "desc": "rent"
+        }
+    ],
+    "486979565044": [
+        {
+            "date": "01/01/2025",
+            "type": "recv",
+            "amount": 9236.52,
+            "other_party": "Theresa Estrada",
+            "desc": "rent"
+        },
+        {
+            "date": "07/01/2025",
+            "type": "send",
+            "amount": 1082.19,
+            "other_party": "Cindy Davis",
+            "desc": "salary"
+        },
+        {
+            "date": "23/07/2025",
+            "type": "recv",
+            "amount": 4367.75,
+            "other_party": "Stacy Chan",
+            "desc": "gift"
+        },
+        {
+            "date": "23/07/2025",
+            "type": "recv",
+            "amount": 9200.9,
+            "other_party": "Jennifer Torres",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "31/03/2025",
+            "type": "send",
+            "amount": 3589.78,
+            "other_party": "Jeffery Knight",
+            "desc": "rent"
+        },
+        {
+            "date": "05/02/2025",
+            "type": "send",
+            "amount": 3519.91,
+            "other_party": "Taylor Perry",
+            "desc": "salary"
+        }
+    ],
+    "445462137506": [
+        {
+            "date": "11/04/2025",
+            "type": "recv",
+            "amount": 798.12,
+            "other_party": "Raymond Navarro",
+            "desc": "salary"
+        },
+        {
+            "date": "23/04/2025",
+            "type": "send",
+            "amount": 2127.43,
+            "other_party": "Jeremy Parks",
+            "desc": "rent"
+        },
+        {
+            "date": "04/08/2025",
+            "type": "recv",
+            "amount": 3754.39,
+            "other_party": "Thomas Rivers",
+            "desc": "rent"
+        },
+        {
+            "date": "02/10/2024",
+            "type": "send",
+            "amount": 8605.84,
+            "other_party": "Angela Jones",
+            "desc": "salary"
+        },
+        {
+            "date": "18/12/2024",
+            "type": "send",
+            "amount": 4819.27,
+            "other_party": "Allen Bailey",
+            "desc": "loan repayment"
+        }
+    ],
+    "802703408825": [
+        {
+            "date": "24/07/2025",
+            "type": "send",
+            "amount": 3686.17,
+            "other_party": "William Fuentes",
+            "desc": "gift"
+        },
+        {
+            "date": "11/03/2025",
+            "type": "recv",
+            "amount": 9377.56,
+            "other_party": "Steven Clark",
+            "desc": "shopping"
+        },
+        {
+            "date": "16/09/2024",
+            "type": "recv",
+            "amount": 1922.05,
+            "other_party": "Michael Mays",
+            "desc": "rent"
+        },
+        {
+            "date": "16/06/2025",
+            "type": "recv",
+            "amount": 1648.39,
+            "other_party": "Adam Wood",
+            "desc": "salary"
+        },
+        {
+            "date": "04/06/2025",
+            "type": "send",
+            "amount": 3227.33,
+            "other_party": "Larry Villarreal",
+            "desc": "salary"
+        },
+        {
+            "date": "08/04/2025",
+            "type": "send",
+            "amount": 2981.49,
+            "other_party": "Brian Cooper",
+            "desc": "gift"
+        }
+    ],
+    "327259652028": [
+        {
+            "date": "15/07/2025",
+            "type": "send",
+            "amount": 6051.96,
+            "other_party": "Beverly Levy",
+            "desc": "gift"
+        },
+        {
+            "date": "29/06/2025",
+            "type": "send",
+            "amount": 1407.0,
+            "other_party": "John Carter",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "30/10/2024",
+            "type": "recv",
+            "amount": 7434.7,
+            "other_party": "Tina Fields",
+            "desc": "salary"
+        },
+        {
+            "date": "09/10/2024",
+            "type": "recv",
+            "amount": 3050.48,
+            "other_party": "Willie Garcia",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "25/06/2025",
+            "type": "send",
+            "amount": 4503.63,
+            "other_party": "Brooke Hurst",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "15/09/2024",
+            "type": "send",
+            "amount": 3826.67,
+            "other_party": "Regina Stewart",
+            "desc": "rent"
+        },
+        {
+            "date": "06/01/2025",
+            "type": "recv",
+            "amount": 4468.84,
+            "other_party": "Paul Carter",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "10/03/2025",
+            "type": "recv",
+            "amount": 1001.46,
+            "other_party": "Angel Anderson",
+            "desc": "salary"
+        },
+        {
+            "date": "13/06/2025",
+            "type": "recv",
+            "amount": 1210.37,
+            "other_party": "Blake Jones",
+            "desc": "shopping"
+        },
+        {
+            "date": "20/08/2024",
+            "type": "send",
+            "amount": 7977.01,
+            "other_party": "Juan Yang",
+            "desc": "gift"
+        }
+    ],
+    "709741931457": [
+        {
+            "date": "05/05/2025",
+            "type": "recv",
+            "amount": 4373.99,
+            "other_party": "Jay Walsh",
+            "desc": "salary"
+        },
+        {
+            "date": "18/12/2024",
+            "type": "recv",
+            "amount": 9377.34,
+            "other_party": "Jeremy Wood",
+            "desc": "salary"
+        },
+        {
+            "date": "07/02/2025",
+            "type": "recv",
+            "amount": 6352.02,
+            "other_party": "Amy Ortiz",
+            "desc": "rent"
+        },
+        {
+            "date": "03/12/2024",
+            "type": "send",
+            "amount": 3017.81,
+            "other_party": "Nicholas Flores",
+            "desc": "gift"
+        },
+        {
+            "date": "25/09/2024",
+            "type": "recv",
+            "amount": 176.99,
+            "other_party": "Edward Ruiz",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "10/06/2025",
+            "type": "recv",
+            "amount": 5497.56,
+            "other_party": "Rebecca Hill",
+            "desc": "salary"
+        },
+        {
+            "date": "02/01/2025",
+            "type": "recv",
+            "amount": 1016.28,
+            "other_party": "Melissa Flynn",
+            "desc": "gift"
+        },
+        {
+            "date": "11/04/2025",
+            "type": "recv",
+            "amount": 2872.88,
+            "other_party": "James Saunders",
+            "desc": "rent"
+        }
+    ],
+    "587380045830": [
+        {
+            "date": "22/03/2025",
+            "type": "send",
+            "amount": 102.51,
+            "other_party": "David Chavez",
+            "desc": "gift"
+        },
+        {
+            "date": "11/11/2024",
+            "type": "recv",
+            "amount": 4501.39,
+            "other_party": "Brenda Ford",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "07/02/2025",
+            "type": "recv",
+            "amount": 8725.85,
+            "other_party": "Karen Harris",
+            "desc": "salary"
+        },
+        {
+            "date": "07/10/2024",
+            "type": "send",
+            "amount": 450.96,
+            "other_party": "Michael Montgomery",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "04/03/2025",
+            "type": "recv",
+            "amount": 1270.03,
+            "other_party": "Edwin Mack",
+            "desc": "salary"
+        }
+    ],
+    "674947128222": [
+        {
+            "date": "04/07/2025",
+            "type": "recv",
+            "amount": 8623.32,
+            "other_party": "Kimberly Moore",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "14/11/2024",
+            "type": "send",
+            "amount": 5782.42,
+            "other_party": "Kaitlin Gregory",
+            "desc": "salary"
+        },
+        {
+            "date": "08/11/2024",
+            "type": "send",
+            "amount": 4166.96,
+            "other_party": "Crystal Gill",
+            "desc": "shopping"
+        },
+        {
+            "date": "13/01/2025",
+            "type": "recv",
+            "amount": 2993.32,
+            "other_party": "William Martinez",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "21/10/2024",
+            "type": "send",
+            "amount": 1654.99,
+            "other_party": "Amanda Scott",
+            "desc": "rent"
+        },
+        {
+            "date": "24/01/2025",
+            "type": "recv",
+            "amount": 5951.52,
+            "other_party": "Lauren Foster",
+            "desc": "salary"
+        }
+    ],
+    "165543315395": [
+        {
+            "date": "30/08/2024",
+            "type": "recv",
+            "amount": 3605.17,
+            "other_party": "David Campbell",
+            "desc": "gift"
+        },
+        {
+            "date": "07/01/2025",
+            "type": "send",
+            "amount": 4819.48,
+            "other_party": "Susan Larson",
+            "desc": "shopping"
+        },
+        {
+            "date": "26/02/2025",
+            "type": "recv",
+            "amount": 6555.34,
+            "other_party": "Ricky Torres",
+            "desc": "rent"
+        },
+        {
+            "date": "23/12/2024",
+            "type": "recv",
+            "amount": 1513.83,
+            "other_party": "Joseph Wright",
+            "desc": "gift"
+        },
+        {
+            "date": "12/07/2025",
+            "type": "send",
+            "amount": 352.91,
+            "other_party": "Carla Perry",
+            "desc": "gift"
+        },
+        {
+            "date": "19/01/2025",
+            "type": "send",
+            "amount": 8477.63,
+            "other_party": "Joseph Berry",
+            "desc": "rent"
+        },
+        {
+            "date": "21/08/2024",
+            "type": "send",
+            "amount": 6894.34,
+            "other_party": "Kim Jenkins",
+            "desc": "gift"
+        },
+        {
+            "date": "04/08/2025",
+            "type": "recv",
+            "amount": 507.66,
+            "other_party": "Jennifer Osborne",
+            "desc": "shopping"
+        },
+        {
+            "date": "06/08/2025",
+            "type": "recv",
+            "amount": 8744.16,
+            "other_party": "Ebony Watson",
+            "desc": "loan repayment"
+        }
+    ],
+    "198844556456": [
+        {
+            "date": "13/04/2025",
+            "type": "send",
+            "amount": 7540.98,
+            "other_party": "Brooke Terry",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "02/05/2025",
+            "type": "send",
+            "amount": 4396.79,
+            "other_party": "Kevin Taylor",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "23/01/2025",
+            "type": "send",
+            "amount": 3373.89,
+            "other_party": "Heather Kennedy",
+            "desc": "gift"
+        },
+        {
+            "date": "24/05/2025",
+            "type": "recv",
+            "amount": 9339.0,
+            "other_party": "John Neal",
+            "desc": "salary"
+        },
+        {
+            "date": "12/11/2024",
+            "type": "recv",
+            "amount": 1379.31,
+            "other_party": "Matthew Brown",
+            "desc": "salary"
+        },
+        {
+            "date": "23/12/2024",
+            "type": "recv",
+            "amount": 7914.44,
+            "other_party": "Patrick Williams",
+            "desc": "gift"
+        },
+        {
+            "date": "01/01/2025",
+            "type": "recv",
+            "amount": 3956.41,
+            "other_party": "Allison Ruiz",
+            "desc": "salary"
+        },
+        {
+            "date": "29/04/2025",
+            "type": "recv",
+            "amount": 9406.34,
+            "other_party": "Alexandra Rose",
+            "desc": "shopping"
+        },
+        {
+            "date": "09/08/2024",
+            "type": "send",
+            "amount": 9067.64,
+            "other_party": "Sean Parks",
+            "desc": "rent"
+        },
+        {
+            "date": "10/04/2025",
+            "type": "send",
+            "amount": 8722.99,
+            "other_party": "Maureen Smith",
+            "desc": "loan repayment"
+        }
+    ],
+    "879102014641": [
+        {
+            "date": "15/09/2024",
+            "type": "send",
+            "amount": 2407.34,
+            "other_party": "Marc Key",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "28/09/2024",
+            "type": "send",
+            "amount": 7078.74,
+            "other_party": "Melissa Acosta",
+            "desc": "shopping"
+        },
+        {
+            "date": "15/03/2025",
+            "type": "recv",
+            "amount": 4173.18,
+            "other_party": "Paul Roberts",
+            "desc": "rent"
+        },
+        {
+            "date": "18/09/2024",
+            "type": "recv",
+            "amount": 5851.51,
+            "other_party": "Joel Rivera",
+            "desc": "gift"
+        },
+        {
+            "date": "30/03/2025",
+            "type": "recv",
+            "amount": 2232.65,
+            "other_party": "Javier Prince",
+            "desc": "loan repayment"
+        }
+    ],
+    "962536141388": [
+        {
+            "date": "16/07/2025",
+            "type": "send",
+            "amount": 1712.29,
+            "other_party": "Jermaine Fletcher",
+            "desc": "rent"
+        },
+        {
+            "date": "12/03/2025",
+            "type": "send",
+            "amount": 1490.03,
+            "other_party": "Beverly Lozano",
+            "desc": "gift"
+        },
+        {
+            "date": "24/08/2024",
+            "type": "send",
+            "amount": 9709.69,
+            "other_party": "Richard Price",
+            "desc": "gift"
+        },
+        {
+            "date": "26/10/2024",
+            "type": "send",
+            "amount": 4591.67,
+            "other_party": "Jean Robinson",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "30/09/2024",
+            "type": "send",
+            "amount": 6102.91,
+            "other_party": "Todd Willis",
+            "desc": "rent"
+        }
+    ],
+    "790064463489": [
+        {
+            "date": "23/02/2025",
+            "type": "recv",
+            "amount": 8945.41,
+            "other_party": "James Young",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "24/07/2025",
+            "type": "send",
+            "amount": 1982.3,
+            "other_party": "Cody Brown",
+            "desc": "rent"
+        },
+        {
+            "date": "22/04/2025",
+            "type": "recv",
+            "amount": 1959.07,
+            "other_party": "Carrie Bishop",
+            "desc": "salary"
+        },
+        {
+            "date": "01/04/2025",
+            "type": "recv",
+            "amount": 3191.1,
+            "other_party": "Michele Hunt",
+            "desc": "gift"
+        },
+        {
+            "date": "30/03/2025",
+            "type": "recv",
+            "amount": 3505.01,
+            "other_party": "Shawn Gomez",
+            "desc": "salary"
+        },
+        {
+            "date": "16/07/2025",
+            "type": "recv",
+            "amount": 9348.42,
+            "other_party": "Mark Black",
+            "desc": "rent"
+        },
+        {
+            "date": "03/08/2025",
+            "type": "recv",
+            "amount": 5003.48,
+            "other_party": "Tina Spears",
+            "desc": "gift"
+        }
+    ],
+    "770019806533": [
+        {
+            "date": "08/01/2025",
+            "type": "recv",
+            "amount": 4659.07,
+            "other_party": "Lauren Henry",
+            "desc": "rent"
+        },
+        {
+            "date": "25/06/2025",
+            "type": "send",
+            "amount": 2487.33,
+            "other_party": "Cindy Adams",
+            "desc": "salary"
+        },
+        {
+            "date": "08/01/2025",
+            "type": "send",
+            "amount": 4462.33,
+            "other_party": "Christopher Smith",
+            "desc": "rent"
+        },
+        {
+            "date": "01/01/2025",
+            "type": "recv",
+            "amount": 489.58,
+            "other_party": "Brenda Buchanan",
+            "desc": "salary"
+        },
+        {
+            "date": "02/04/2025",
+            "type": "recv",
+            "amount": 2278.5,
+            "other_party": "Tracy Sanders",
+            "desc": "loan repayment"
+        }
+    ],
+    "468798545706": [
+        {
+            "date": "25/02/2025",
+            "type": "recv",
+            "amount": 1162.13,
+            "other_party": "Jody Morgan",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "29/09/2024",
+            "type": "send",
+            "amount": 7139.57,
+            "other_party": "Stephen Norton",
+            "desc": "gift"
+        },
+        {
+            "date": "17/11/2024",
+            "type": "recv",
+            "amount": 5408.03,
+            "other_party": "Jesus Nguyen",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "21/03/2025",
+            "type": "send",
+            "amount": 263.93,
+            "other_party": "Andrew Wood",
+            "desc": "shopping"
+        },
+        {
+            "date": "08/08/2024",
+            "type": "send",
+            "amount": 1808.5,
+            "other_party": "Joseph Lopez",
+            "desc": "gift"
+        },
+        {
+            "date": "02/04/2025",
+            "type": "send",
+            "amount": 2917.11,
+            "other_party": "Michael Fitzgerald",
+            "desc": "rent"
+        },
+        {
+            "date": "06/11/2024",
+            "type": "recv",
+            "amount": 8605.05,
+            "other_party": "Scott Scott",
+            "desc": "rent"
+        }
+    ],
+    "899911506282": [
+        {
+            "date": "11/09/2024",
+            "type": "recv",
+            "amount": 1270.62,
+            "other_party": "Micheal Williams",
+            "desc": "shopping"
+        },
+        {
+            "date": "05/02/2025",
+            "type": "send",
+            "amount": 6781.33,
+            "other_party": "Andrea Murray",
+            "desc": "shopping"
+        },
+        {
+            "date": "03/09/2024",
+            "type": "recv",
+            "amount": 2293.42,
+            "other_party": "Amber Lamb",
+            "desc": "salary"
+        },
+        {
+            "date": "05/07/2025",
+            "type": "recv",
+            "amount": 6778.99,
+            "other_party": "Julia Wilson",
+            "desc": "salary"
+        },
+        {
+            "date": "28/01/2025",
+            "type": "recv",
+            "amount": 2939.63,
+            "other_party": "Brett Cannon",
+            "desc": "salary"
+        },
+        {
+            "date": "29/05/2025",
+            "type": "send",
+            "amount": 5575.92,
+            "other_party": "Thomas Alexander",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "01/02/2025",
+            "type": "send",
+            "amount": 8138.76,
+            "other_party": "Jeffery Fischer",
+            "desc": "gift"
+        },
+        {
+            "date": "20/05/2025",
+            "type": "send",
+            "amount": 5153.7,
+            "other_party": "Amanda White",
+            "desc": "rent"
+        }
+    ],
+    "874490855370": [
+        {
+            "date": "24/04/2025",
+            "type": "recv",
+            "amount": 5738.03,
+            "other_party": "Carl Pitts DVM",
+            "desc": "salary"
+        },
+        {
+            "date": "09/04/2025",
+            "type": "send",
+            "amount": 8180.12,
+            "other_party": "Jeffrey Hawkins",
+            "desc": "gift"
+        },
+        {
+            "date": "08/02/2025",
+            "type": "send",
+            "amount": 6326.99,
+            "other_party": "Joshua Harris",
+            "desc": "rent"
+        },
+        {
+            "date": "26/09/2024",
+            "type": "send",
+            "amount": 5311.71,
+            "other_party": "Jeremy Jacobs",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "30/11/2024",
+            "type": "recv",
+            "amount": 3156.12,
+            "other_party": "Debbie Hall",
+            "desc": "salary"
+        },
+        {
+            "date": "27/10/2024",
+            "type": "send",
+            "amount": 6642.41,
+            "other_party": "Richard Garcia",
+            "desc": "gift"
+        }
+    ],
+    "172458122216": [
+        {
+            "date": "04/12/2024",
+            "type": "recv",
+            "amount": 7071.82,
+            "other_party": "Danielle Mitchell",
+            "desc": "rent"
+        },
+        {
+            "date": "28/03/2025",
+            "type": "send",
+            "amount": 6082.63,
+            "other_party": "Mary Harmon",
+            "desc": "salary"
+        },
+        {
+            "date": "26/02/2025",
+            "type": "recv",
+            "amount": 3902.51,
+            "other_party": "Shannon Martinez",
+            "desc": "rent"
+        },
+        {
+            "date": "23/04/2025",
+            "type": "send",
+            "amount": 3220.06,
+            "other_party": "Bailey Mclaughlin",
+            "desc": "salary"
+        },
+        {
+            "date": "13/02/2025",
+            "type": "recv",
+            "amount": 6717.48,
+            "other_party": "Michael Warner",
+            "desc": "salary"
+        },
+        {
+            "date": "27/03/2025",
+            "type": "recv",
+            "amount": 6748.69,
+            "other_party": "Connie Decker",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "30/07/2025",
+            "type": "recv",
+            "amount": 5778.57,
+            "other_party": "Joseph Leonard",
+            "desc": "rent"
+        },
+        {
+            "date": "19/09/2024",
+            "type": "send",
+            "amount": 3598.85,
+            "other_party": "Mark Mitchell",
+            "desc": "gift"
+        },
+        {
+            "date": "20/09/2024",
+            "type": "send",
+            "amount": 343.19,
+            "other_party": "Robert Tran",
+            "desc": "rent"
+        },
+        {
+            "date": "01/08/2025",
+            "type": "send",
+            "amount": 9460.79,
+            "other_party": "Kevin Johnson",
+            "desc": "loan repayment"
+        }
+    ],
+    "342955608655": [
+        {
+            "date": "07/07/2025",
+            "type": "recv",
+            "amount": 9723.72,
+            "other_party": "James Daugherty",
+            "desc": "gift"
+        },
+        {
+            "date": "30/05/2025",
+            "type": "send",
+            "amount": 4544.77,
+            "other_party": "Angela Hubbard",
+            "desc": "salary"
+        },
+        {
+            "date": "05/02/2025",
+            "type": "recv",
+            "amount": 1851.66,
+            "other_party": "Patricia Hudson",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "10/01/2025",
+            "type": "recv",
+            "amount": 195.37,
+            "other_party": "Cindy Oconnor",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "07/11/2024",
+            "type": "recv",
+            "amount": 7614.95,
+            "other_party": "Olivia Gomez",
+            "desc": "shopping"
+        }
+    ],
+    "981493143287": [
+        {
+            "date": "10/01/2025",
+            "type": "recv",
+            "amount": 1796.02,
+            "other_party": "Lori Lester",
+            "desc": "shopping"
+        },
+        {
+            "date": "29/05/2025",
+            "type": "send",
+            "amount": 888.51,
+            "other_party": "Roy Fox",
+            "desc": "salary"
+        },
+        {
+            "date": "09/05/2025",
+            "type": "send",
+            "amount": 9464.99,
+            "other_party": "Jesus Smith",
+            "desc": "salary"
+        },
+        {
+            "date": "22/08/2024",
+            "type": "send",
+            "amount": 7206.15,
+            "other_party": "Matthew Guerrero",
+            "desc": "gift"
+        },
+        {
+            "date": "05/10/2024",
+            "type": "send",
+            "amount": 6243.05,
+            "other_party": "Troy Castillo MD",
+            "desc": "gift"
+        }
+    ],
+    "258774376402": [
+        {
+            "date": "23/05/2025",
+            "type": "send",
+            "amount": 2599.48,
+            "other_party": "Deanna Munoz",
+            "desc": "gift"
+        },
+        {
+            "date": "25/07/2025",
+            "type": "send",
+            "amount": 5013.81,
+            "other_party": "Samantha Floyd",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "11/03/2025",
+            "type": "send",
+            "amount": 4635.36,
+            "other_party": "Anthony Johnson",
+            "desc": "shopping"
+        },
+        {
+            "date": "06/02/2025",
+            "type": "send",
+            "amount": 7381.45,
+            "other_party": "Tonya Cooper",
+            "desc": "gift"
+        },
+        {
+            "date": "16/02/2025",
+            "type": "recv",
+            "amount": 8052.91,
+            "other_party": "Nicholas Barrett",
+            "desc": "gift"
+        },
+        {
+            "date": "31/07/2025",
+            "type": "recv",
+            "amount": 5350.39,
+            "other_party": "Michael Torres",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "30/10/2024",
+            "type": "recv",
+            "amount": 9775.54,
+            "other_party": "Joshua Oconnor",
+            "desc": "shopping"
+        },
+        {
+            "date": "19/10/2024",
+            "type": "recv",
+            "amount": 9347.49,
+            "other_party": "Alex Burton",
+            "desc": "rent"
+        },
+        {
+            "date": "17/12/2024",
+            "type": "recv",
+            "amount": 7241.74,
+            "other_party": "Andrew Perez",
+            "desc": "gift"
+        },
+        {
+            "date": "11/02/2025",
+            "type": "recv",
+            "amount": 606.41,
+            "other_party": "Andrea Brown",
+            "desc": "loan repayment"
+        }
+    ],
+    "700450083709": [
+        {
+            "date": "21/07/2025",
+            "type": "recv",
+            "amount": 6839.18,
+            "other_party": "Jenny Stafford",
+            "desc": "shopping"
+        },
+        {
+            "date": "13/08/2024",
+            "type": "recv",
+            "amount": 9949.91,
+            "other_party": "Jeffrey Howard",
+            "desc": "salary"
+        },
+        {
+            "date": "10/11/2024",
+            "type": "recv",
+            "amount": 3922.11,
+            "other_party": "Gary Hatfield",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "23/04/2025",
+            "type": "send",
+            "amount": 5703.78,
+            "other_party": "Janet Ortiz",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "05/04/2025",
+            "type": "recv",
+            "amount": 1709.26,
+            "other_party": "Joseph Fitzgerald",
+            "desc": "salary"
+        },
+        {
+            "date": "19/02/2025",
+            "type": "send",
+            "amount": 5890.83,
+            "other_party": "Julie Williams",
+            "desc": "rent"
+        },
+        {
+            "date": "22/10/2024",
+            "type": "send",
+            "amount": 9527.84,
+            "other_party": "Jennifer Myers",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "11/03/2025",
+            "type": "recv",
+            "amount": 3297.72,
+            "other_party": "Charles Melton",
+            "desc": "gift"
+        },
+        {
+            "date": "04/10/2024",
+            "type": "recv",
+            "amount": 9875.96,
+            "other_party": "Morgan Hernandez",
+            "desc": "rent"
+        },
+        {
+            "date": "27/05/2025",
+            "type": "send",
+            "amount": 4474.7,
+            "other_party": "Ryan Hoover",
+            "desc": "loan repayment"
+        }
+    ],
+    "200708262468": [
+        {
+            "date": "05/12/2024",
+            "type": "recv",
+            "amount": 7498.09,
+            "other_party": "Alex Drake",
+            "desc": "salary"
+        },
+        {
+            "date": "03/07/2025",
+            "type": "recv",
+            "amount": 2859.2,
+            "other_party": "Richard Sutton",
+            "desc": "salary"
+        },
+        {
+            "date": "09/11/2024",
+            "type": "send",
+            "amount": 726.54,
+            "other_party": "Blake Pennington",
+            "desc": "salary"
+        },
+        {
+            "date": "15/10/2024",
+            "type": "send",
+            "amount": 9422.37,
+            "other_party": "Lisa Ellis",
+            "desc": "shopping"
+        },
+        {
+            "date": "02/10/2024",
+            "type": "recv",
+            "amount": 7572.06,
+            "other_party": "Lance King",
+            "desc": "loan repayment"
+        }
+    ],
+    "640877402763": [
+        {
+            "date": "15/03/2025",
+            "type": "send",
+            "amount": 4344.17,
+            "other_party": "Morgan Johnson",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "28/03/2025",
+            "type": "recv",
+            "amount": 9901.89,
+            "other_party": "Amanda Davis",
+            "desc": "salary"
+        },
+        {
+            "date": "11/08/2024",
+            "type": "recv",
+            "amount": 7935.99,
+            "other_party": "Chris Young",
+            "desc": "rent"
+        },
+        {
+            "date": "19/11/2024",
+            "type": "send",
+            "amount": 7868.03,
+            "other_party": "Nicolas Sullivan",
+            "desc": "shopping"
+        },
+        {
+            "date": "23/01/2025",
+            "type": "recv",
+            "amount": 4694.89,
+            "other_party": "Johnathan Long",
+            "desc": "rent"
+        },
+        {
+            "date": "24/10/2024",
+            "type": "recv",
+            "amount": 6402.99,
+            "other_party": "Steven Pierce",
+            "desc": "salary"
+        },
+        {
+            "date": "30/07/2025",
+            "type": "recv",
+            "amount": 5338.04,
+            "other_party": "Patricia Duncan",
+            "desc": "salary"
+        }
+    ],
+    "431180881681": [
+        {
+            "date": "30/04/2025",
+            "type": "recv",
+            "amount": 6315.37,
+            "other_party": "Michael Bryant",
+            "desc": "gift"
+        },
+        {
+            "date": "29/07/2025",
+            "type": "send",
+            "amount": 5758.43,
+            "other_party": "Jennifer Crawford",
+            "desc": "salary"
+        },
+        {
+            "date": "20/03/2025",
+            "type": "send",
+            "amount": 9454.96,
+            "other_party": "Patrick Johnson",
+            "desc": "gift"
+        },
+        {
+            "date": "29/06/2025",
+            "type": "recv",
+            "amount": 2443.66,
+            "other_party": "Lauren Parsons",
+            "desc": "gift"
+        },
+        {
+            "date": "20/11/2024",
+            "type": "send",
+            "amount": 9584.24,
+            "other_party": "Michael Clark",
+            "desc": "salary"
+        },
+        {
+            "date": "25/12/2024",
+            "type": "send",
+            "amount": 9287.06,
+            "other_party": "Gina Good",
+            "desc": "gift"
+        },
+        {
+            "date": "21/03/2025",
+            "type": "recv",
+            "amount": 4428.44,
+            "other_party": "Christine Knight",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "29/09/2024",
+            "type": "recv",
+            "amount": 997.23,
+            "other_party": "Warren Middleton",
+            "desc": "rent"
+        },
+        {
+            "date": "28/11/2024",
+            "type": "send",
+            "amount": 7649.02,
+            "other_party": "Michelle Maldonado",
+            "desc": "salary"
+        },
+        {
+            "date": "16/01/2025",
+            "type": "recv",
+            "amount": 4412.56,
+            "other_party": "Thomas Lam",
+            "desc": "gift"
+        }
+    ],
+    "420195254711": [
+        {
+            "date": "19/07/2025",
+            "type": "recv",
+            "amount": 3610.37,
+            "other_party": "Paul Smith",
+            "desc": "shopping"
+        },
+        {
+            "date": "04/06/2025",
+            "type": "recv",
+            "amount": 3348.35,
+            "other_party": "Krystal Farley",
+            "desc": "rent"
+        },
+        {
+            "date": "16/01/2025",
+            "type": "recv",
+            "amount": 9217.11,
+            "other_party": "Mario Morris",
+            "desc": "salary"
+        },
+        {
+            "date": "17/07/2025",
+            "type": "send",
+            "amount": 5702.6,
+            "other_party": "Lindsay Archer",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "04/02/2025",
+            "type": "send",
+            "amount": 786.8,
+            "other_party": "Charles Williams",
+            "desc": "rent"
+        },
+        {
+            "date": "29/08/2024",
+            "type": "recv",
+            "amount": 526.89,
+            "other_party": "Timothy Fry",
+            "desc": "rent"
+        },
+        {
+            "date": "27/02/2025",
+            "type": "recv",
+            "amount": 9062.15,
+            "other_party": "Dr. Robert Osborne",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "11/01/2025",
+            "type": "send",
+            "amount": 5997.07,
+            "other_party": "Chelsea Dunn",
+            "desc": "gift"
+        },
+        {
+            "date": "04/03/2025",
+            "type": "send",
+            "amount": 1712.83,
+            "other_party": "Travis Thompson",
+            "desc": "salary"
+        },
+        {
+            "date": "04/12/2024",
+            "type": "send",
+            "amount": 7325.11,
+            "other_party": "Matthew Moore",
+            "desc": "shopping"
+        }
+    ],
+    "236178644349": [
+        {
+            "date": "27/10/2024",
+            "type": "recv",
+            "amount": 9501.82,
+            "other_party": "Jonathan Hogan",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "12/10/2024",
+            "type": "send",
+            "amount": 899.22,
+            "other_party": "Nicole Baker",
+            "desc": "salary"
+        },
+        {
+            "date": "25/03/2025",
+            "type": "send",
+            "amount": 8021.99,
+            "other_party": "Jeffrey Ewing",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "14/08/2024",
+            "type": "recv",
+            "amount": 7845.06,
+            "other_party": "Theresa Medina",
+            "desc": "shopping"
+        },
+        {
+            "date": "17/12/2024",
+            "type": "send",
+            "amount": 7591.06,
+            "other_party": "Wanda Lee",
+            "desc": "gift"
+        }
+    ],
+    "467423460970": [
+        {
+            "date": "21/05/2025",
+            "type": "send",
+            "amount": 6362.19,
+            "other_party": "Rebecca Kirk",
+            "desc": "salary"
+        },
+        {
+            "date": "13/09/2024",
+            "type": "send",
+            "amount": 8970.1,
+            "other_party": "Brittney Guerrero",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "02/07/2025",
+            "type": "send",
+            "amount": 6519.16,
+            "other_party": "Kristine Ward",
+            "desc": "gift"
+        },
+        {
+            "date": "29/09/2024",
+            "type": "send",
+            "amount": 8141.45,
+            "other_party": "Kristina Jenkins",
+            "desc": "shopping"
+        },
+        {
+            "date": "18/05/2025",
+            "type": "recv",
+            "amount": 9135.42,
+            "other_party": "Regina Perez",
+            "desc": "salary"
+        },
+        {
+            "date": "07/12/2024",
+            "type": "send",
+            "amount": 5480.08,
+            "other_party": "Joseph Pugh",
+            "desc": "shopping"
+        },
+        {
+            "date": "13/02/2025",
+            "type": "send",
+            "amount": 8148.32,
+            "other_party": "Lynn Burton",
+            "desc": "rent"
+        },
+        {
+            "date": "15/06/2025",
+            "type": "recv",
+            "amount": 6114.65,
+            "other_party": "Nicholas Wright PhD",
+            "desc": "shopping"
+        },
+        {
+            "date": "19/12/2024",
+            "type": "recv",
+            "amount": 8351.75,
+            "other_party": "Tony House",
+            "desc": "shopping"
+        }
+    ],
+    "325658799809": [
+        {
+            "date": "16/09/2024",
+            "type": "send",
+            "amount": 1447.47,
+            "other_party": "Jerome Manning",
+            "desc": "rent"
+        },
+        {
+            "date": "06/05/2025",
+            "type": "send",
+            "amount": 290.09,
+            "other_party": "Jordan Roman",
+            "desc": "shopping"
+        },
+        {
+            "date": "01/05/2025",
+            "type": "send",
+            "amount": 4196.98,
+            "other_party": "Tina Martin",
+            "desc": "rent"
+        },
+        {
+            "date": "15/08/2024",
+            "type": "recv",
+            "amount": 7987.99,
+            "other_party": "Tanya Walters",
+            "desc": "rent"
+        },
+        {
+            "date": "04/10/2024",
+            "type": "send",
+            "amount": 3643.05,
+            "other_party": "Dawn Macias",
+            "desc": "rent"
+        },
+        {
+            "date": "10/01/2025",
+            "type": "send",
+            "amount": 4463.0,
+            "other_party": "Lisa Davis",
+            "desc": "shopping"
+        },
+        {
+            "date": "24/09/2024",
+            "type": "recv",
+            "amount": 6755.95,
+            "other_party": "Adam King",
+            "desc": "shopping"
+        }
+    ],
+    "980312983410": [
+        {
+            "date": "08/01/2025",
+            "type": "send",
+            "amount": 403.82,
+            "other_party": "Jasmine Rowe",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "02/05/2025",
+            "type": "recv",
+            "amount": 734.52,
+            "other_party": "Jean Beard",
+            "desc": "rent"
+        },
+        {
+            "date": "05/06/2025",
+            "type": "send",
+            "amount": 3572.77,
+            "other_party": "John Gallegos",
+            "desc": "salary"
+        },
+        {
+            "date": "13/01/2025",
+            "type": "send",
+            "amount": 3295.75,
+            "other_party": "Michael Murphy",
+            "desc": "shopping"
+        },
+        {
+            "date": "17/08/2024",
+            "type": "recv",
+            "amount": 4817.67,
+            "other_party": "John Boyd",
+            "desc": "rent"
+        },
+        {
+            "date": "06/11/2024",
+            "type": "recv",
+            "amount": 7928.22,
+            "other_party": "Keith Reed",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "24/07/2025",
+            "type": "send",
+            "amount": 8382.34,
+            "other_party": "Connor Rodriguez",
+            "desc": "rent"
+        },
+        {
+            "date": "18/02/2025",
+            "type": "recv",
+            "amount": 9555.96,
+            "other_party": "Amanda Hebert",
+            "desc": "gift"
+        }
+    ],
+    "703886083986": [
+        {
+            "date": "21/05/2025",
+            "type": "recv",
+            "amount": 9602.32,
+            "other_party": "Theresa Edwards",
+            "desc": "rent"
+        },
+        {
+            "date": "27/01/2025",
+            "type": "recv",
+            "amount": 1652.92,
+            "other_party": "Victoria Hubbard",
+            "desc": "shopping"
+        },
+        {
+            "date": "16/08/2024",
+            "type": "send",
+            "amount": 1689.53,
+            "other_party": "Michael Larson",
+            "desc": "salary"
+        },
+        {
+            "date": "14/09/2024",
+            "type": "send",
+            "amount": 9437.22,
+            "other_party": "Eric Brown",
+            "desc": "shopping"
+        },
+        {
+            "date": "20/02/2025",
+            "type": "send",
+            "amount": 4880.88,
+            "other_party": "Cesar Castillo",
+            "desc": "gift"
+        }
+    ],
+    "416056408695": [
+        {
+            "date": "14/04/2025",
+            "type": "send",
+            "amount": 6393.15,
+            "other_party": "Pamela Williams",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "12/05/2025",
+            "type": "send",
+            "amount": 3585.61,
+            "other_party": "Amanda Peters",
+            "desc": "salary"
+        },
+        {
+            "date": "04/01/2025",
+            "type": "recv",
+            "amount": 3696.54,
+            "other_party": "Lynn Herring",
+            "desc": "shopping"
+        },
+        {
+            "date": "29/05/2025",
+            "type": "recv",
+            "amount": 5692.69,
+            "other_party": "Kevin Miller",
+            "desc": "rent"
+        },
+        {
+            "date": "16/05/2025",
+            "type": "send",
+            "amount": 6900.71,
+            "other_party": "Robin Harris",
+            "desc": "salary"
+        }
+    ],
+    "200695461125": [
+        {
+            "date": "29/07/2025",
+            "type": "send",
+            "amount": 8258.45,
+            "other_party": "Michael King",
+            "desc": "shopping"
+        },
+        {
+            "date": "06/08/2025",
+            "type": "send",
+            "amount": 567.33,
+            "other_party": "Timothy Lutz",
+            "desc": "rent"
+        },
+        {
+            "date": "18/10/2024",
+            "type": "send",
+            "amount": 7805.42,
+            "other_party": "Steven Tran",
+            "desc": "gift"
+        },
+        {
+            "date": "25/07/2025",
+            "type": "recv",
+            "amount": 4419.01,
+            "other_party": "Kevin May",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "08/08/2024",
+            "type": "send",
+            "amount": 9233.11,
+            "other_party": "Peter Meyers",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "19/11/2024",
+            "type": "send",
+            "amount": 5380.15,
+            "other_party": "Matthew Bryant",
+            "desc": "rent"
+        }
+    ],
+    "978734360941": [
+        {
+            "date": "11/01/2025",
+            "type": "recv",
+            "amount": 9663.9,
+            "other_party": "Jimmy Moore",
+            "desc": "gift"
+        },
+        {
+            "date": "27/12/2024",
+            "type": "send",
+            "amount": 4764.23,
+            "other_party": "Matthew Alvarez",
+            "desc": "salary"
+        },
+        {
+            "date": "17/01/2025",
+            "type": "send",
+            "amount": 6488.12,
+            "other_party": "Kimberly Hoover",
+            "desc": "gift"
+        },
+        {
+            "date": "14/10/2024",
+            "type": "send",
+            "amount": 8372.26,
+            "other_party": "Robert Miller",
+            "desc": "loan repayment"
+        },
+        {
+            "date": "11/11/2024",
+            "type": "recv",
+            "amount": 5469.17,
+            "other_party": "Harold Hayes",
+            "desc": "shopping"
+        },
+        {
+            "date": "28/09/2024",
+            "type": "recv",
+            "amount": 8779.84,
+            "other_party": "Kayla Archer",
+            "desc": "loan repayment"
+        }
+    ]
+}
