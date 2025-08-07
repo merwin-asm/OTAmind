@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CLWS Portal</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <div class="profile">
+                <span class="profile-picture"></span>
+                <span class="profile-details">
+                    <span class="name">John Doe</span><br>
+                    <span class="ID">0023889293848</span>
+                </span>
+            </div>
+            <ul class="nav-link">
+                <li><a href="./index.html">?&nbsp;&nbsp;Check CLWS</a></li>
+                <li><a href="./about.html">About CLWS</a></li>
+            </ul>
+        </nav>
+
+        <main>
+            <form action="#" method="post">
+                <div class="row">
+                    <div class="input"><label for="aadhar" >Aadhaar Card <span>*</span></label><br>
+                    <input type="text" name="aadhar" id="" class="aadhar" !required></div>
+                    <div class="input"><label for="aadhar">PAN Card <span>*</span></label><br>
+                    <input type="text" name="aadhar" id="" class="aadhar" !required></div>
+                </div>
+
+                <div class="rental">
+                    <label for="rental-agreement">House Rental Agreement (if any)</label>
+                    <div class="drop-zone">
+                        <h1>Drop your files here!</h1>
+                    </div>
+                </div>
+
+                <div class="row" style="margin-bottom: 40px;">
+                    <label for="previousLoans">Any Previous Loans? <span>*</span></label>
+                    <div class="checkboxes">
+                        <input type="radio" name="previousLoans" id="yl" placeholder="Yes" !required>&nbsp;Yes
+                        <input type="radio" name="previousLoans" id="nl" placeholder="No" style="margin-left: 8px;" !required>&nbsp;No
+                    </div>
+                </div>
+
+                <div class="loan-segment">
+                    <div class="input">
+                        <label for="loanName">Type of Loan <span>*</span></label><br>
+                        <select name="loanType" id="" class="aadhar" !required>
+                            <option value="MortgageLoan">Mortgage Loan</option>
+                            <option value="HomeLoan">Home Loan</option>
+                            <option value="CarLoan">Car Loan</option>
+                            <option value="MedicalLoan">Medical Emergency Loan</option>
+                            <option value="MarriageLoan">Marriage Loan</option>
+                        </select>
+                    </div>
+
+                    <div class="input">
+                        <label for="loanAmt">Loan amount <span>*</span></label><br>
+                        <input type="text" name="loanAmount" id="" class="aadhar" !required>
+                    </div>
+
+                    <div class="rental">
+                        <label for="installmentDropZone">Paid Installments (so far) <span>*</span></label>
+                        <div class="installmentDropZone">
+                            <h1>Drop your files here!</h1>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row" style="margin-bottom: 40px;">
+                    <label for="previousLoans">Any insurance premiums? <span>*</span></label>
+                    <div class="checkboxes">
+                        <input type="radio" name="Policies" id="yi" placeholder="Yes">&nbsp;Yes
+                        <input type="radio" name="Policies" id="ni" placeholder="No" style="margin-left: 8px;">&nbsp;No
+                    </div>
+                </div>
+                <div class="policy-segment">
+                    <div class="input">
+                        <label for="loanAmt">Loan amount <span>*</span></label><br>
+                        <input type="text" name="loanAmount" id="" class="aadhar">
+                    </div>
+                    <div class="rental">
+                        <label for="policyDropZone">Policy Documents <span>*</span></label>
+                        <div class="policyDropZone">
+                            <h1>Drop your files here!</h1>
+                        </div>
+                    </div>
+                </div>
+
+                <input type="submit" value="Submit">
+            </form>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
