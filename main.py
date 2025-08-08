@@ -1,8 +1,9 @@
-from flask import Flask, request
+from flask import Flask, request, jsonify
 import os
 import google.generativeai as genai
 import requests as rs
 import json
+from flask_cors import CORS
 
 import fitz  # PyMuPDF
 
@@ -27,6 +28,7 @@ model = genai.GenerativeModel("gemini-2.0-flash")
 
 
 app = Flask(__name__)
+CORS(app)  # enable CORS for all routes
 
 UPLOAD_FOLDER = 'uploads'
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
@@ -35,21 +37,21 @@ rental = {}
 installments = {}
 
 def check_rental(bank, rental):
-    rent_score = ai("give a calculated value/score out of 10 for rent payment being on time, the total amount to be paid per month is "+ rental["rent"]+ " , and the transations of the person recently is in json is "+ str(bank) + "..... just return the number , no other replies.").replace("\n", "").replace(" ", "")
+    rent_score = ai("give a calculated value/score out of 10 for rent payment being on time, the total amount to be paid per month is "+ str(rental["rent"])+ " , and the transations of the person recently is in json is "+ str(bank) + "..... just return the number , no other replies.").replace("\n", "").replace(" ", "")
     return int(rent_score)
 
 
 def check_insurance(insurance):
-    return int(ai("give a calculated value/score out of 10 for insurance payments, not keeping dues based on the persons payment due list and total insurances. the data for the person : "+ insurance + " ... just return the number , no other replies.").replace("\n", "").replace(" ", ""))
+    return int(ai("give a calculated value/score out of 10 for insurance payments, not keeping dues based on the persons payment due list and total insurances. the data for the person : "+ str(insurance) + " ... just return the number , no other replies.").replace("\n", "").replace(" ", ""))
 
 def check_bill(bill):
-    return int(ai("give a calculated value/score out of 10 for bill payments,not keeping dues based on the persons payment due list and total bills. the data for the person : "+ bill + " ... just return the number , no other replies.").replace("\n", "").replace(" ", ""))
+    return int(ai("give a calculated value/score out of 10 for bill payments,not keeping dues based on the persons payment due list and total bills. the data for the person : "+str( bill) + " ... just return the number , no other replies.").replace("\n", "").replace(" ", ""))
 
 def check_tax(tax):
-    return int(ai("give a calculated value/score out of 10 for tax payments,not keeping dues based on the persons payment due list and total taxs. the data for the person : "+ tax + " ... just return the number , no other replies.").replace("\n", "").replace(" ", ""))
+    return int(ai("give a calculated value/score out of 10 for tax payments,not keeping dues based on the persons payment due list and total taxs. the data for the person : "+ str(tax) + " ... just return the number , no other replies.").replace("\n", "").replace(" ", ""))
 
 def check_installment(installment):
-    return int(ai("give a calculated value/score out of 10 for installment payments,not keeping dues based on the persons payment receipts and the dates of paying. the data for the person : "+ installment + " ... just return the number , no other replies.").replace("\n", "").replace(" ", ""))
+    return int(ai("give a calculated value/score out of 10 for installment payments,not keeping dues based on the persons payment receipts and the dates of paying. the data for the person : " + str(installment) + " ... just return the number , no other replies.").replace("\n", "").replace(" ", ""))
 
 def check_score(aadhaar, pan):
     insurance = json.loads(rs.get("http://0.0.0.0:5051/check/"+aadhaar).text)
@@ -83,7 +85,7 @@ def check_score(aadhaar, pan):
     #clean up 
     installments[aadhaar] = []
     del rental[aadhaar]
-    
+    print("credit : ", total) 
     return total
 
 
@@ -98,14 +100,14 @@ def ai(prompt):
 def index():
     return "V 0.1.0"
 
-@app.route('/check/<aadhaar>/<pan>', methods=['POST'])
-def check_score(aadhaar, pan):
-    data = {"score": check_score(aadhaar, pan) , ""}
-    return jsonify(data)
+@app.route('/check/<aadhaar>/<pan>')
+def check_score_(aadhaar, pan):
+    data =  check_score(aadhaar, pan) 
+    return str(data)
 
 
 @app.route('/upload_rental/<aadhaar>', methods=['POST'])
-def upload_pdf():
+def upload_pdf(aadhaar):
     file = request.files['file']
     if file and file.filename.endswith('.pdf'):
         filepath = os.path.join(UPLOAD_FOLDER, file.filename)
@@ -122,7 +124,7 @@ def upload_pdf():
 
 
 @app.route('/upload_installments/<aadhaar>', methods=['POST'])
-def upload_pdf_():
+def upload_pdf_(aadhaar):
     file = request.files['file']
     if file and file.filename.endswith('.pdf'):
         filepath = os.path.join(UPLOAD_FOLDER, file.filename)
@@ -133,9 +135,9 @@ def upload_pdf_():
         os.remove(filepath)
         
         try:
-            installments[aadhaar].append(json.loads(ai(f"this is an installment reciept, check the date and amount as json in format dict with date and amount, dont return anything else, '{pdf_text}'").replace("```json","").replace("```","").replace("₹", "").replace(",", "")))
+            installments[aadhaar].append(json.loads(ai(f"this is an installment reciept, check the date and amount as json in format dict with date and amount, dont return anything else, '{pdf_text}'").replace("```json","").replace("```","").replace("₹", "")))
         except:
-            installments.setdefault(aadhaar, [json.loads(ai(f"this is an installment reciept, check the date and amount as json in format dict with date and amount, dont return anything else, '{pdf_text}'").replace("```json","").replace("```","").replace("₹", "").replace(",", ""))])
+            installments.setdefault(aadhaar, [json.loads(ai(f"this is an installment reciept, check the date and amount as json in format dict with date and amount, dont return anything else, '{pdf_text}'").replace("```json","").replace("```","").replace("₹", ""))])
 
         return ""
 

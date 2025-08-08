@@ -172,30 +172,6 @@ label span {
     color: #5bdd44;
 }
 
-.policyDropZone {
-    width: 1055px;
-    height: 440px;
-    background: #D9D9D9;
-    margin-top: 8px;
-
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    
-    border-radius: 5px;
-}
-
-.policyDropZone h1 {
-    font-size: 64px;
-    color: #B6B6B6;
-}
-
-.policyDropZone h2 {
-    font-size: 22.5px;
-    color: #5bdd44;
-}
-
 input[type="Submit"] {
     height: 45px;
     width: 185px;
