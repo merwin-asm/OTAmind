@@ -22,7 +22,7 @@ def ai(prompt):
     except Exception as e:
         return f"Error: {e}"
 
-genai.configure(api_key="AIzaSyCHs_5V6gjlydD8WGMeqIkXqE84JxBcEhc")
+genai.configure(api_key="AIzaSyCiCRk_VPGTwes25_isfa6ZsyIWfRYsDhc")
 model = genai.GenerativeModel("gemini-2.0-flash")
 
 

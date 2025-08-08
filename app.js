@@ -137,19 +137,36 @@ form.addEventListener('submit', async (e) => {
     }
 
     // // 3. Check Score (GET)
-
+const card = document.querySelector(".overlay")
+const scoreOut = document.querySelector(".overlay h1")
+const scoreRef = document.querySelector(".overlay p")
 
 try {
     let res = await fetch(`http://0.0.0.0:5050/check/${aadhar}/${pan}`, {
-        method: "GET"
+        method: "GET",
+        headers: {}
     });
 
     let data = await res.text(); 
     ref = parseInt(data) / 50
 
-    if (ref < 0.6655) {alert(`Your credit score is ${ref}, it is low`)}
-    else if (ref < 0.7211) {alert(`Your credit score is ${ref}, it is fair`)}
-    else {alert(`Your credit score is ${ref}, you have a high score`)}
+    if (ref < 0.6655) {
+        card.style.display = "block"
+        scoreOut.innerHTML = ref * 100
+        scoreOut.style.color = "red"
+        scoreRef.innerHTML = "Your Credit score is Low."
+    }
+    else if (ref < 0.7211) {
+        card.style.display = "block"
+        scoreOut.innerHTML = ref * 100
+        scoreOut.style.color = "#f5d142"
+        scoreRef.innerHTML = "Your Credit score is Fair."
+    }
+    else {
+        card.style.display = "block"
+        scoreOut.innerHTML = ref * 100
+        scoreRef.innerHTML = "Your Credit score is High."
+    }
 
 
 } catch (err) {
