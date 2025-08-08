@@ -1,6 +1,6 @@
 # OTAmind
 
-**OTAmind** — a **hackathon project** by **merwin-asm**, **madhavmothiravally5460**, **Ihsaan-f**, licensed under **GPL-3.0** :contentReference[oaicite:1]{index=1}.
+**OTAmind** — a **hackathon project** by **merwin-asm**, **madhavmothiravally5460**, **Ihsaan-f**, licensed under **GPL-3.0**.
 
 ## Overview
 
@@ -12,7 +12,7 @@ OTAmind is a fun and experimental project crafted during a hackathon, combining 
   - Python
   - JavaScript
   - HTML
-  - CSS :contentReference[oaicite:2]{index=2}
+  - CSS
 
 - **Key Files**:
   - Backend: `main.py`, various `.py` scripts (`bank.py`, `insurance.py`, `pan.py`, etc.) alongside corresponding JSON config files
